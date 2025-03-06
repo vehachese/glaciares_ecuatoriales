@@ -1,0 +1,42 @@
+{
+  "id": "https://vehachese.github.io/glaciares_ecuatoriales/iiif/1/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "Volcán de Pichincha"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://vehachese.github.io/glaciares_ecuatoriales/iiif/1/manifest/canvas-0.json",
+      "items": [
+        {
+          "id": "https://vehachese.github.io/glaciares_ecuatoriales/iiif/1/manifest/page-0.json",
+          "items": [
+            {
+              "id": "https://vehachese.github.io/glaciares_ecuatoriales/iiif/1/manifest/image-0.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://vehachese.github.io/glaciares_ecuatoriales/iiif/1/manifest/canvas-0.json",
+              "body": {
+                "id": "https://vehachese.github.io/glaciares_ecuatoriales/iiif/1/0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 3952,
+                "width": 2720
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 2720,
+      "height": 3952,
+      "annotations": []
+    }
+  ]
+}

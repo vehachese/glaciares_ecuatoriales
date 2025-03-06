@@ -1,38 +1,56 @@
 const config = {
   "lang": "es",
   "localPort": "5173",
-  "base": "https://srsergiorodriguez.github.io",
-  "baseurl": "/serie-mini",
-  "title": "Serie Mini",
-  "subtitle": "Un sistema para mini colecciones digitales",
-  "credits": "Por Sergio Rodríguez Gómez",
-  "copyright": "Todos los derechos reservados, 2024",
-  "logos": [
-    {img: "logos/logo.png", link: "https://github.com/srsergiorodriguez/serie-mini"}
-  ],
+  "base": "https://vehachese.github.io",
+  "baseurl": "/glaciares_ecuatoriales",
+  "title": "Imágenes de los glaciares ecuatoriales",
+  "subtitle": "La imaginación de los no humanos",
+  "credits": "Santiago Villalba Hernández",
+  "copyright": "Esta información puede ser copiada, reproducida y modificada",
   "pages": {
     "iiifViewer": true,
     "metadataToShow": [
       {
+        "key": "creator",
+        "label": "Creator",
+        "type": "text"
+      },
+      {
         "key": "label",
-        "label": "Nombre",
+        "label": "Label",
         "type": "text"
       },
       {
-        "key": "autor",
-        "label": "Autor",
+        "key": "date",
+        "label": "Date",
         "type": "text"
       },
       {
-        "key": "fecha",
-        "label": "Fecha",
+        "key": "medium",
+        "label": "Medium",
+        "type": "text"
+      },
+      {
+        "key": "location",
+        "label": "Location",
+        "type": "text"
+      },
+      {
+        "key": "type",
+        "label": "Type",
+        "type": "text"
+      },
+      {
+        "key": "altitude",
+        "label": "Altitude",
         "type": "text"
       }
     ],
     "metadataToIndex": [
+      "creator",
       "label",
-      "autor",
-      "fecha"
+      "medium",
+      "location"
     ]
   }
 };

@@ -1,5 +1,6 @@
-pid,label,autor,fecha
-AdriaenCollaert,America Tortuga,Adriaen Collaert,1586
-JohannSadeler,America Loro,Johann Sadeler,1581
-PhilipsGalle,America Composición,Philips Galle,1547
-PhilipsGalle2,America Cabeza,Philips Galle,1585
+pid,creator,label,date,medium,location,type,altitude,archivo
+1,Alexander von Humboldt,Volcán de Pichincha,1810-01-01,litografía sobre cobre,Guagua Pichincha,volcán,4784  m. s. n. m.,200004110619.jpg
+2,Alexander von Humboldt,Volcán de Cotopaxi,1810-01-01,litografía sobre cobre,Rucu Pichincha,volcán,4784  m. s. n. m.,200004110616.jpg
+3,Augusto N. Martínez,El Chimborazo,1/1/1904,fotografía,Cotopaxi,volcán,5897 m. s. n. m., AlbSAm006-0032.jpg
+4,Augusto N. Martínez,"Glaciar Crespos, lado oeste Antisana",1/1/1904,fotografía,Chimborazo,volcán,6263  m. s. n. m.,AlbSAm005-0047.jpg 
+5,Augusto N. Martínez,1. a) Guagua-Pichincha; b) Pico de Ladrillos; c) Rucu Pichincha. 1. Südseite des Cerro Ungui; 2. Guayra-pungo; 3. Cushca-allashca; 4. Pucara; 5. Habas-loma; 6. Hayaloma; 7. Loma Zaldumbilda,1/1/1903,fotografía,Antisana,volcán,5753  m. s. n. m.,SAm102-0249.jpg

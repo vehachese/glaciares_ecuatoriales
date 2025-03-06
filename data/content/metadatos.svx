@@ -17,9 +17,12 @@ Este es el protocolo que especifica la construcción de los datos de la colecci�
 
 | Dato   | Descripción                                                                     |  Tipo      |
 |---     |---                                                                              |---         |
-| pid    | Identificador único                                                             | categórico |
-| label  | Nombre de la obra. Iniciales con mayúsculas                                     | categórico |
-| autor  | Autor de la obra. Inciales con mayúsculas, incluir acentos                      | categórico |
-| fecha  | Año aproximado de producción de la obra. Escrito en número completo (p.ej 1589) | ordinal    |
-
+| pid     | Identificador único                                                             | categórico |
+| creator | Nombre de la persona que creó la imagen                                         | ordinal    |
+| label   | Nombre de la imagen.                                                            | categórico |
+| fecha   | Año aproximado de creación de la imagen                                         | ordinal    |
+| medium  | Técnica utilizada para crear la imagen                                          | categórico |
+| location| Ubicación del glaciar representado en la imagen                                 | categórico |
+| type    | Tipo de cuerpo geológico representado en la imagen                              | categórico |
+| altitude| Altitud de la montaña donde ha existido el glaciar                              | categórico |
 <MetadataTable />
