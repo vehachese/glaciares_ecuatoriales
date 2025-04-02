@@ -15,14 +15,22 @@ En esta sección se encuentran los metadatos de la colección. Pueden descargars
 
 Este es el protocolo que especifica la construcción de los datos de la colección:
 
-| Dato   | Descripción                                                                     |  Tipo      |
-|---     |---                                                                              |---         |
+| Dato   | Descripción                                                                      |  Tipo      |
+|---     |---                                                                               |---         |
 | pid     | Identificador único                                                             | categórico |
-| creator | Nombre de la persona que creó la imagen                                         | ordinal    |
-| label   | Nombre de la imagen.                                                            | categórico |
-| fecha   | Año aproximado de creación de la imagen                                         | ordinal    |
+| label   | Nombre de la imagen                                                             | categórico |
+| creator_humano | Nombre del humano que participó en la creación de la imagen              | categórico |
+| creator_no_humano_1 | Nombre del objeto que participó en la creación de la imagen         | Categórico |
+| creator_no_humano_2 | Nombre del objeto que participó en la creación de la imagen         | categórico |
+| creator_no_humano_3 | Nombre del objeto que partició en la creación de la imagen          | categórico |
+| objeto_retratado | Tipo de relieve geográfico que aparece en la imagen                    | categórico |
+| geometría_de_composición | Figura geométrica que rige la composición de la imagen         | categórico |
+| unidad_visual | Elemento principal que construye la imagen                                | categórico |
+| textura_imagen | Tipo de textura que la unidad visual le da a la imagen                   | categórico |
+| color_imagen | Tipo de color presente en la imagen                                        | categórico |
 | medium  | Técnica utilizada para crear la imagen                                          | categórico |
-| location| Ubicación del glaciar representado en la imagen                                 | categórico |
-| type    | Tipo de cuerpo geológico representado en la imagen                              | categórico |
-| altitude| Altitud de la montaña donde ha existido el glaciar                              | categórico |
+| tecnologia | Tecnología utilizada para crear la imagen                                    | categórico |
+| ciencias_aplicadas | Tipo de estudio científico al que fue aplicada la creación de la imagen | categórico    |
+| fecha_de_creacion | Año aproximado de creación de la imagen                               | ordinal |
+| lugar_de_creación| Ubicación del lugar donde se creó la imagen                            | categórico |
 <MetadataTable />

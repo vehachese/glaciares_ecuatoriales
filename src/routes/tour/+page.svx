@@ -11,13 +11,117 @@ layout: page
   import VizTree from '$components/VizTree.svelte';
 </script>
 
-# Recorrido por la colección
+# Pensar con el hielo
 
-Hac unas noches vimos en la carretera una zarigüeya muerta.
+
+"Our age forces us to engage with materials."
+
+Esther Leslie, «Fog, Faom and Froath».
+
+"Could a greater miracle take place than for us to look 
+through each other’s eyes for an instant?"
+
+H. D. Thoreau, Walden.
+
+
+
+
+Hace unos días, manejando a casa, vimos una zarigüeya muerta al borde de la vía. Esta imagen le recordó a mi pareja que días antes habían atropellado a una oncilla. A estas pérdidas tengo que sumarle la extinción del glaciar de Santa Isabel en el Parque de los Nevados, y la extinción del glaciar Humboldt en Venezuela. Todo lo que puedo pensar es que cuanto más tiempo vivimos, más nos exponemos a las pérdidas inesperadas o consecuentes de otros. Solo que ahora nos estamos enfrentando a la pérdida de lo que creíamos que era eterno. La pérdida de las especies y del hielo.  
+
+Veo la retirada del bosque alto andino y la selva amazónica mientras los gases de efecto invernadero se depositan en la atmósfera como una lupa entre el sol y yo. Veo la retirada de los glaciares liberando minerales, virus y bacterias del permafrost. Estas pérdidas, además, indican la aparición de una nueva entidad , el calentamiento global. Convivir en el espacio social y cotidiano con objetos como el petróleo ha provocado transformaciones en la Tierra que exceden la temporalidad y la espacialidad humana. El calentamiento global tiene agencia sobre la manera en la que vivo y me obliga a entablar otra relación con los objetos. A dejar de verlos como una pantalla para crear sentido humano y empezar a verlos como seres en sí mismos, agentes capaces de generar cambios en la realidad. 
+
+Últimamente, he estado pensando y preguntándome por el hielo. En especial, por los altos glaciares de las montañas ecuatoriales. Son agua en un estado de la materia menos disperso, menos fluido, en el que el tiempo emana a una velocidad que no puedo percibir. Los glaciares no son estáticos, sus mareas de hielo y deshielo se mueven en tiempos larguísimos. Estas entidades sólidas —aguas de moléculas fuertemente enlazadas que atrapan rocas en sus intersticios, minerales, hongos, bacterias, trozos de gramíneas—, estas formas hexagonales de agregación de la materia aparecen para conversar conmigo. 
+
+No veo el hielo hacerse en el congelador de mi casa, pero aparece para detener la descomposición de un caldo de apio y hongos. Lo veo derritiéndose en las grandes peceras de jugo de mandarina que venden en las calles de Bogotá. Su imagen latente está en el polen de los corazones sedimentarios de la sabana que Thomas Van der Hammen estudió. Con esas muestras pudo imaginar las montañas que hoy llamamos Monserrate y Guadalupe, hace 40.000 años, cubiertas por un glaciar que tocaba los bosques de Quercus y Polylepis. El hielo que humanamente conocemos, aquí en el ecuador, es un objeto en retirada.
+
+Para tratar de mirar el hielo, traigo tres imágenes de glaciares ecuatoriales y pongo mi atención, especialmente, en la técnica y los objetos con que fueron hechas. Es decir, miro a las entidades que confabularon para crear estas imágenes. No haré una simple enumeración de objetos, relaciones y procesos que permiten crear la imagen. Las miraré para comprender cómo esos materiales, que ahora llamaré entidades, —resinas, láminas de cobre, sales de bromuro, vidrio— se comunican con el ambiente más allá del control del guardián de la imagen .
+
+
+<VizTree keys={["creator_humano","fecha_de_creacion","medium"]} />
+
+
+<VizTimeline dateKey="fecha_de_creacion"/>
+
+
+En la pared de mi cuarto pegué algunas láminas que Humboldt publicó en 1810 después de su viaje por el sur de América en Vistas de las cordilleras y monumentos de los pueblos indígenas de América. Trato de pensar, cuando las veo, qué es lo que la montaña genera en la imagen. En la Lámina X el volcán de Cotopaxi aparece sin base. Es un acercamiento a su cima, «la más bella y regular de todas las que presentan las colosales cimas de los altos Andes» , sumamente blanca y lisa, que tiene al lado una masa de rocas. Debajo de la línea exacta donde acaba la zona del hielo, hay un estrato gris, una zona rocosa donde no viven plantas. Y, debajo de la línea exacta donde acaba la piedra, está la montaña cubierta de bosque homogéneo. Humboldt ilustra la montaña como un botánico ilustra una planta. Desagrega las partes de su cuerpo y añade un dibujo a lápiz con el detalle del cono del cráter. Esa estratificación me da la idea de un cuerpo con órganos, un cuerpo que está compuesto por otras partes. La imagen me ofrece un todo que solo puede ser todo juntando sus partes.
 
 <ItemPreview pid="2" title="Litografía sobre placa de cobre" />
 
-La imagen del Cotopaxi de Humboldt presenta un detallado análisis de los águlos de la montaña.
 
-<ItemPreview pid="2" title="Volcán de Cotopaxi" />
-<VizTree keys={["medium","creator","date"]} />
+Humboldt le presta atención al aspecto, la forma, la distribución de la montaña y no solo a su altura . Mirar la manera en que la piedra se erosiona, su cima esférica o abatida, es cómo él se introduce en los objetos y la interacción estética entre ellos. Es consciente de que las formaciones calcáreas, las escorias vitrificadas  e incluso los organismos quimiótrofos, desconcidos para él y que habitan la zona de piedra metabolizando compuestos inorgánicos, generan interacciones con otras entidades como el viento, la lluvia o la presión atmosférica para darle una forma particular a cada montaña. Quizá para Humboldt no había diferencia entre la cosa y sus relaciones. Como la había para los filósofos de su tiempo. 
+
+<VizBarChart key="ciencias_aplicadas"/>
+Estas imágenes fueron creadas para ser aplicadas a estudios científicos particulares.
+
+Si las cosas son sus relaciones, entonces la imagen del Cotopaxi es una confabulación. De fábula: for, fatum (decir, hablar). Configurar ese habla con otro supone una conversación. Toda imagen es una conversación entre entidades. Lo que veo —parcialmente— es la trama de una emulsión grasosa sobre una lámina de cobre, la resina vegetal de la goma arábiga capturando el agua, lo que veo es la sustancia hidrofóbica de la tinta, la traducción geodésica de los ángulos de la montaña tomados con un círculo repetidor y dibujados por una mano cuyos nervios provocaron un gesto para trazar un dibujo. Veo el encabalgamiento de la placa tectónica de Nazca sobre la placa Continental, la línea exacta en la que la presión atmosférica desciende lo suficiente para provocar temperaturas que congelan el agua y hace que se recoja, durante eras geológicas, en un glaciar. Lo que veo, es la manera en que unos seres imprimen huellas en otros.   
+
+El ecólogo y ambientalista Aldo Leopold vio, en los pastizales estadounidenses, que donde el cazador había eliminado los lobos se abrían estrías en el suelo y los arbustos eran arrasados por el paso ingobernado de los venados en la montaña. Solo pensando como una montaña, con su magnitud y su temporalidad, se entiende el significado oculto del aullido del lobo . Su gobierno, para que la montaña no se erosiones y los ríos no desvíen sus caudales. La montaña es lo que los venados y los lobos imprimen en ella. 
+
+Pensar como una montaña es lo que trata de hacer Humboldt cuando insiste en recordar el cuerpo entero de la cordillera en sus descripciones. Por una diferencia de escalas la montaña nos hace olvidar que vivimos dentro de ella en mesetas a más de 2.000 m. s. n. m. La altura de sus valles, crean una ilusión  , aparecen como algo que no son. La cualidad que tiene un objeto en el que estamos introducidos de parecernos invisible  es propia de los hipoerobjetos, como la litósfera o el calentamiento global. 
+
+A los objetos que se distribuyen masivamente en el tiempo y el espacio en relación con los humanos, el filósofo Timothy Morton los llama hiperobjetos. Y, precisamente por exceder la percepción humana, solo pueden ser observados por medio de la huella que dejan en otros objetos, es decir, que solo se pueden ver por medio de sus interrelaciones estéticas .
+
+Resulta asombroso imaginarse a Humboldt siguiendo las montañas como indicios del hiperobjeto litósfera con la comprensión de que son una parte de algo, todavía sin nombre, que no se puede ver enteramente, pero cuyas fuerzas tienen una incidencia directa en la manera en que vivimos. Sus grabados de los glaciares ecuatorianos son la anotación de relaciones estéticas entre entidades: la distensión molecular del mercurio causada por la presión atmosférica, la medida de los ángulos que determinan el contorno de la montaña con precisión. De hecho, su propuesta de construir imágenes precisas y compararlas de siglo en siglo  demuestra su intención de pensar como una montaña. 
+
+Si los hiperobjetos solo son visibles por la huella que dejan en otros objetos, vuelvo, entonces, a la pregunta. ¿Qué es lo que la montaña genera en la imagen? ¿Podría ser que los materiales usados para hacer la litografía de la lámina X se comporten como un glaciar para crear la imagen del glaciar? Para acercarme a esta pregunta utilizo el verbo to render en inglés, porque describe diferentes acciones que se asocian a la manera en que propongo poner la mirada sobre los materiales y la imagen.
+
+Por la precisión con que Humboldt midió la altura de las montañas y la altura de sus nieves, estos grabados son uno de los registros más viejos y, por lo tanto, una imagen del máximo histórico de los glaciares. En ese entonces, la tecnología para crear la imagen era húmeda. De hecho, la litografía funciona por la capacidad de los materiales para captar o repeler el agua. Sobre una piedra pulida o una lámina de cobre se dibuja la imagen con aceites. Los espacios negativos de la imagen son emulsionados con una solución salina hidrofílica que capta la humedad. Así, al cubrir la lámina con la tinta, aceitosa también, la insolubilidad del agua en los aceites repele la tinta y genera los espacios blancos de la imagen. Esto quiere decir que, en el grabado, las zonas blancas de los glaciares son renderizadas por la presencia del agua. Según la primera acepción del verbo to render  (causar que alguien o algo exista en un estado particular), los minerales ionizados causan que la acumulación del agua exista como un glaciar en la imagen. Por otro lado, la piedra, la montaña y el bosque son renderizados por la goma arábiga extraída de la acacia. Un compuesto orgánico. Presencia de carbono. Este árbol absorbe minerales del suelo para alimentarse, recoge carbono para conformar las células de su cuerpo y producir la resina o el polisacárido con el que cicatriza. Si leo la descripción anterior bajo la tercera acepción del verbo to render (expresar o interpretar, to perform), veo que estas entidades no solo causan que un conjunto de objetos sea una imagen, sino que estos mismos objetos están interpretando a los ibjetos que aparecen en la imagen. El agua y la sal como hielo, la resina vegetal como roca y bosque. 
+
+Si dejo de ignorar las entidades que participan en la creación de la imagen, puedo empezar a verla como una célula que crea membranas y permite la entrada o salida de información. Una célula, en este caso, que guarda la memoria del máximo histórico de los glaciares según la temporalidad humana. Miro la lámina X con un pensamiento puramente humboldtiano, es decir, como un cuerpo constituido por la relación de sus partes.  Las imágenes, como técnica y no como idea, tienen la habilidad de convertir los materiales en las cosas que representan y, por lo tanto, de ser ellas mismas un organismo. Es decir, un espacio que contiene otras entidades vivas y no vivas.
+
+<VizTree keys={["tecnologia","creator_no_humano_1","objeto_retratado"]} />
+
+Lo que veo son las entidades que participan de la litografía traduciendo la montaña. Litografizando la montaña. A esta relación de traducciones, Timothy Morton la llama interobjetividad, una «extraña interconexión de las cosas, una interconexión que no implica una transmisión de información perfecta y sin pérdida, sino que está llena de brechas y ausencias» . Una trama, nos aclara, en la que los hilos y los agujeros entre hilos son fundamentales . Constantemente estamos siendo atravesados por relaciones e interconexiones con otras entidades. En definitiva, lo que experimentamos nunca es la cosa en sí, si no su apariencia tamizada por las relaciones con otros. Nosotros mismos estamos humanizando los objetos, como lo hizo Humboldt con el Cotopaxi. Pero, si Humboldt también estaba siendo atravesado por la trama del glaciar, ¿no sería su pensamiento una traducción mental del hiperobjeto? .
+
+# Un cristal de plata para mirar un cristal de hielo
+
+El hielo es la metáfora de lo estático. De hecho, una fotografía es un momento congelado. Pero el hielo es también la metáfora de lo que se retira. Lo fugaz, como en el poema de José Watanabe en el que el hielo mientras se derrite dibuja imágenes «de montaña o planeta que se devasta»  . Miro la barra de tareas de mi computador. En la esquina derecha me anuncia que debo minimizar mi exposición al sol porque hay un alto impacto de rayos ultravioleta. Me queman aunque no pueda verlos. Para verlos necesito una cámara especial. Finalmente, toda cámara, como lo propone la investigadora Esther Leslie, tiene la capacidad de registrar presencias que para nosotros son invisibles . 
+
+Por ejemplo, cuando miro una de las fotografías de Augusto Martínez Holguín del volcán del Antinsana tomada en 1904, lo que veo no es la hazaña de los andinistas o un robusto glaciar o los haces de luz que distorsionan la imagen. La materia tiene historia , dice Leslie. Y esta imagen —los objetos que conforman su cuerpo— se ha estado comunicando con el ambiente durante ciento veinte años. Lo que veo, entonces, es una imagen parcial del hiperobjeto calentamiento global. Lo que veo, es la huella del calentamiento global en los glaciares ecuatoriales. «La fotografía se convierte en el vector para monitorizar algo que debía permanecer oculto, cubierto y que se revela por medio de un inconsciente óptico» . Yo tenía la idea de que hacíamos imágenes para describir el mundo, para cifrar sus cuatro dimensiones en una superficie de dos dimensiones . Pero es tan alto el poder que tiene la imagen para convertir todo lo que mira en parte de su cuerpo, que hacer fotografías acaba revelando objetos que antes no podíamos ver.
+ 
+<ItemPreview pid="4" title="Fotografía química sobre vidrio, cámara de colodión seco" />
+
+Pienso en el colodión seco que utilizó el andinista  y científico ecuatoriano Augusto Martínez para fotografiar el glaciar del Antisana. Técnicamente son cristales de sal de plata (cloruros, yoduros y bromuros) suspendidos en una emulsión de gelatina obtenida de pieles y huesos de vaca. Es curioso que la litografía y la fotografía sean técnicas que utilizan elementos similares: sal y gelatina. Sal y resina. La unión de materias orgánicas y minerales. 
+
+<VizTree keys={["medium","creator_no_humano_2"]} />
+Las técnicas utilizadas para crear imágenes utilizan diferentes unidades visuales de representación que provocan diferentes maneras de aparición de la imagen como objeto. 
+
+En el caso particular de la fotografía del Antisana, se utilizan cristales de plata para captar cristales de hielo. Las entidades se convierten en lo observado para aparecer como tal. Esto me lleva a pensar cómo la comunicación entre las entidades y el ambiente han transformado también las técnicas para crear imagen. Cuando Martínez tomó la fotografía del Antisana, el proceso de imaginación todavía era húmedo. La placa de vidrio emulsionada tenía que pasar por «complejas danzas con el agua, con baños de químicos...»  para que la imagen latente se cristalizara. 
+
+
+Más de un siglo después, la imagen me muestra la retirada del hielo y veo en la técnica la retirada de lo húmedo. ¿Podemos establecer una relación entre la naturaleza de las técnicas y el proceso de deshielo de los glaciares? Esther Leslie nos dice que el propósito de la fotografía digital es superar la humedad, mantener al agua lejos de su procedimiento. La fotografía se deshidrata . Cuando miro una imagen satelital del glaciar del Antisana, no tengo una proporción de altura ni de forma. Estoy obligado a mirar el glaciar desde lejos y desde arriba. Lo veo a través de mi pantalla, lo que veo es la interfaz de un código que me permite acceder y visualizar la información lumínica que un satélite recogió al pasar sobre ese punto particular de la órbita terrestre. Con esa sola imagen no puedo percibir el retroceso de las nieves sobre la montaña, pero si presto atención a los materiales que participan de ella puedo ver que, con la pérdida de los cristales de hielo, se han perdido también los procedimientos húmedos de la fotografía y ha aumentado el uso de cristales secos como el óxido de silicio en los lentes, cables y memorias de almacenamiento de los dispositivos que me muestran el glaciar. 
+ 
+<ItemPreview pid="6" title="Imagen satelital" />
+
+La relación entre el deshielo y la deshidratación de la fotografía me habla del ambiente. El hielo se está retirando de la metáfora de lo estático. Se convierte, ahora, en la metonimia del calentamiento global. Una parte de un todo que no podemos ver por completo. Me doy cuenta, entonces, de que entidades como la resina, los haluros de plata y el colágeno que trajimos a la cotidianidad y al espacio social, crean imágenes en las que aparece mucho más de lo que el ojo humano quiso encuadrar o tenía el propósito de observar. El hecho de que estas entidades me permitan acercarme al calentamiento global a pesar de mis decisiones como guardián de la imagen, me hace reconsiderar la manera en que me relaciono con ellas. 
+
+Las miro como seres en sí mismos. Tienen la capacidad de imaginar. Tienen, además, la capacidad de conformar el cuerpo de la imagen y devenir en aquello que están mostrando. Sin estas entidades, los seres humanos no podríamos dibujar ni emulsionar ni almacenar datos. Nuestra capacidad para imaginar está ligada a ellas. Son ellas quienes dominan la norma de lo imaginable. En esa medida, lo que hemos expresado sobre el hielo por medio de imágenes es lo que otros seres nos han permitido imaginar y simbolizar sobre el hielo.
+
+<VizTree keys={["tecnologia","unidad_visual","creator_no_humano_3"]} />
+
+Es momento de imaginar las montañas ecuatoriales sin glaciares. El calentamiento global, que en parte puedo ver gracias a las imágenes de Humboldt, me muestra una temporalidad que supera a la especie. Los efectos de este hiperobjeto seguirán ocurriendo dentro de 100.000 años . Pensar como una montaña nos da la posibilidad de imaginar otros relacionamientos. Por ejemplo, un relacionamiento atento con las entidades que participan de la imaginación me permitirá crear imágenes que muestren lo que la dimensión y la temporalidad humana ignora. Y hará que participe en una visión del mundo que excede lo humano.
+
+Las fotografías son un inventario de la mortalidad. Sontag dice que «declaran la inocencia, la vulnerabilidad de las vidas que se dirigen hacia su propia destrucción, y este vínculo entre la fotografía y la muerte lastra todas las fotografías de personas»  Y me atrevo a añadir que también lastra la muerte del mundo. No como una catástrofe que partirá la Tierra en dos, sino del mundo como idea. Con la muerte de la oncilla y de los glaciares no estoy perdiendo el planeta. Estoy perdiendo la idea de que en el bosque está la oncilla y en la altura está el glaciar. No hay una distancia entre la naturaleza y yo. Lo salvaje es la nieve y lo salvaje soy yo subiendo a un bus para ir a clase. Perder el mundo es perder la distancia entre lo humano y lo salvaje, lo natural y lo artificial. «Sin un mundo, solo hay una serie de seres únicos [...] con quienes tengo una obligación por el simple hecho de que la existencia es coexistencia» .
+ 
+# Referencias
+Cambridge Dictionary. Cambridge University Press and Assesment, 2024. https://dictionary.cambridge.org/dictionary/
+
+Flusser, Vilém. Hacia una filosofía de la fotografía. Traducido por Thomas Schilling. Editorial Síntesis, 2001.
+
+Humboldt, Alexander von. Vistas de las cordilleras y monumentos de los pueblos indígenas de América. Vol. I y II. Siglo XXI Editores, 1995.  
+
+Leopold, Aldo. «Thinking Like a Mountain» en A Sand County Almanac and Sketches Here and There. Oxford University Press, 2020.
+
+Leslie, Esther. «Fog, foam and froath: Insubstantial matters in substantive atmospheres», en Electric Brine, editado por Jennifer Teets. Archive Books, 2021.
+
+Morton, Timothy. Hiperobjetos. Filosofía y ecología después del fin del mundo. Traducido por Paola Cortés Roca. Adriana Hidalgo editora, 2013.
+
+Sontag, Susan. Sobre la fotografía. Traducido por Carlos Gardini. Alfaguara, 2006.
+
+Watanabe, José. El guardián del hielo. Grupo Editorial Norma, 2000.
+
+
+
+
+
+

@@ -1,6 +1,7 @@
-pid,creator,label,date,medium,location,type,altitude,archivo
-1,Alexander von Humboldt,Volcán de Pichincha,1810-01-01,litografía sobre cobre,Guagua Pichincha,volcán,4784  m. s. n. m.,200004110619.jpg
-2,Alexander von Humboldt,Volcán de Cotopaxi,1810-01-01,litografía sobre cobre,Rucu Pichincha,volcán,4784  m. s. n. m.,200004110616.jpg
-3,Augusto N. Martínez,El Chimborazo,1/1/1904,fotografía,Cotopaxi,volcán,5897 m. s. n. m., AlbSAm006-0032.jpg
-4,Augusto N. Martínez,"Glaciar Crespos, lado oeste Antisana",1/1/1904,fotografía,Chimborazo,volcán,6263  m. s. n. m.,AlbSAm005-0047.jpg 
-5,Augusto N. Martínez,1. a) Guagua-Pichincha; b) Pico de Ladrillos; c) Rucu Pichincha. 1. Südseite des Cerro Ungui; 2. Guayra-pungo; 3. Cushca-allashca; 4. Pucara; 5. Habas-loma; 6. Hayaloma; 7. Loma Zaldumbilda,1/1/1903,fotografía,Antisana,volcán,5753  m. s. n. m.,SAm102-0249.jpg
+pid,label,creator_humano,creator_no_humano_1,creator_no_humano_2,creator_no_humano_3,objeto_retratado,geometria_de_composicion,unidad_visual,textura_imagen,color_imagen,medium,tecnologia,ciencias_aplicadas,fecha_de_creacion,lugar_de_creación
+1,Volcán de Pichincha,Alexander von Humboldt,Cobre,Goma arábiga,Aceite de linaza pigmentado,Volcán,Triangular,Trazo,Entramada,Sepia,litografía sobre cobre,impresión,Geología,1810-01-01,Francia
+2,Volcán de Cotopaxi,Alexander von Humboldt,Cobre,Goma arábiga,Aceite de linaza pigmentado,Volcán,Trapezoidal,Trazo,Entramada,Sepia,litografía sobre cobre,impresión,Geología,1810-01-01,Francia
+3,El Chimborazo,Augusto N. Martínez,Bromuro de plata,Gelatina,Fotones,Domo nevado,Triangular,Grano,Granulada,Escala de grises,Fotografía química sobre vidrio,Cámara de colodión seco,Geología,1904-01-01,Ecuador
+4,Glaciar Crespos lado oeste Antisana,Augusto N. Martínez,Bromuro de plata,Gelatina,Fotones,Glaciar,Irregular,Grano,Granulada,Escala de grises,Fotografía química sobre vidrio,Cámara de colodión seco,Geología,1904-01-01,Ecuador
+5,Guagua-Pichincha; Pico de Ladrillos; Rucu Pichincha;  vista sur del Cerro Ungui; Guayra-pungo; Cushca-allashca; 4. Pucara; 5. Habasloma; 6. Hayaloma; Loma Zaldumbilda,Augusto N. Martínez,Bromuro de plata,Gelatina,Fotones,Cadena montañosa ,Rectangular,Grano,Granulada,Escala de grises,Fotografía química sobre vidrio,Cámara de colodión seco,Geología,1903-01-01,Ecuador
+6,Vista saltelital del Antisana,Desconocido,Landsat,Silicio,Fosfato de galio,Volcán,Circular,Pixel,Lisa,Color,Imagen satelital,Cámara satelital,Mapping,2024-09-06,Estratósfera

@@ -1,0 +1,42 @@
+{
+  "id": "https://vehachese.github.io/glaciares_ecuatoriales/iiif/6/manifest/manifest.json",
+  "type": "Manifest",
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "label": {
+    "en": [
+      "Vista saltelital del Antisana"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://vehachese.github.io/glaciares_ecuatoriales/iiif/6/manifest/canvas-0.json",
+      "items": [
+        {
+          "id": "https://vehachese.github.io/glaciares_ecuatoriales/iiif/6/manifest/page-0.json",
+          "items": [
+            {
+              "id": "https://vehachese.github.io/glaciares_ecuatoriales/iiif/6/manifest/image-0.json",
+              "items": [],
+              "type": "Annotation",
+              "@context": "http://www.w3.org/ns/anno.jsonld",
+              "motivation": "painting",
+              "target": "https://vehachese.github.io/glaciares_ecuatoriales/iiif/6/manifest/canvas-0.json",
+              "body": {
+                "id": "https://vehachese.github.io/glaciares_ecuatoriales/iiif/6/0/full/max/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 644,
+                "width": 1334
+              }
+            }
+          ],
+          "type": "AnnotationPage"
+        }
+      ],
+      "type": "Canvas",
+      "width": 1334,
+      "height": 644,
+      "annotations": []
+    }
+  ]
+}

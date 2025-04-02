@@ -2,8 +2,21 @@
 name: home
 layout: home
 ---
+<script>
+  import ItemPreview from '$components/ItemPreview.svelte';
+</script>
 
-# Sobre estas imágenes
+# Recoger y amontonar
+Este es un archivo mínimo de imágenes de glaciares ecuatoriales. Es fascinante que en la zona más cálida del planeta existan montañas lo suficientemente altas para acumular hielo en sus cimas. 
+El objetivo de esta colección va más allá de recoger algunas imágenes de estos glaciares. Es, en verdad, un pretexto para pensar las montañas, sus enormes y antiguos cuerpos conformados por minerales, vegetales y animales. Y es también un pretexto para pensar las imágenes y cómo aparecen, también, conformadas por minerales, vegetales y animales. La montaña de la montaña.
+Para acercarnos a las montañas y a las imágenes, esta colección ofrece dos maneras de navegarse. Por un lado, explorando con el buscador. Por otro lado, el tour ofrece un camino en el que las imágenes se tejen con un texto para explorar lo que, finalmente, más le interesa a este proyecto. La pregunta por la ecología de las imágenes.  
 
-Esta es una colección de imágenes de glaciares que están en la banda ecuatorial del planeta.
+
+# Hacia una ecología de las imágenes
+Anna Tsing, la antropóloga estadounidense que escribió acerca de los hongos matsutake, propone en su libro "Los hongos del fin del mundo", que los conjuntos (o assemblages) agrupan formas de vida y las configuran. Se pregunta cómo es que estos conjuntos acaban convirtiéndose en eventos, “es decir, resultan ser algo más que la suma de sus partes”. 
+Dado que pensamos en las montañas y las imágenes como un conjunto, si empezamos a revisar las partes que se coordinan para que aparezcan en la realidad como imagen o montaña, fácilmente podemos perdernos en un profundo laberinto de seres vivos y no vivos cuya interconexión hace posible dicho cuerpo. Y si continuamos haciendo ese ejercicio con todos los objetos del planeta (microscópicos y enormes), veremos claramente que todo está interconectado en una gran malla o "mesh" como la llama Timothy Morton, un filósofo inglés que se ha dedicado a pensar en la ontología de los objetos y la crisis ambiental. 
+La existencia de esa malla implica que entre mi mirada, la imagen de un glaciar y el propio glaciar, no hay distancia, sino pura intimidad. Encuentro de extraños. No hay diferencia entre lo humano y lo salvaje. Esto me permite plantear dos preguntas fundamentales. Por un lado: ¿Qué características tiene una imagen que nos permitan pensarla como un organismo, un ecosistema, un ser en sí mismo? Por otro lado, ¿quiénes son realmente los autores de las imágenes?, ¿el ojo humano que elige, el mineral que reacciona y hace aparecer la imagen, el cuerpo sobre el cual la luz se refleja?
+Una buena cantidad de grupos humanos nativos del Amazonas consideran que en el mundo todo es gente: las plantas, las rocas, las aguas son gente. No limitan la humanidad solo a los cuerpos del Homo sapiens. Si seguimos este camino podemos decir que los glaciares son gente. ¿Podemos conversar con esta gente glaciar? ¿Serán las imágenes un medio para sostener dicha conversación?  
+
+<ItemPreview pid="3" title="Bromuro de plata, vidrio, agua, nervios humanos, córnea, fotones" /> <ItemPreview pid="5" title="¿Augusto N. Martínez?" /> 
 
